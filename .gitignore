@@ -1,2 +1,5 @@
 #Executables
 *.class
+
+#Editor
+.vscode
