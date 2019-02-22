@@ -22,7 +22,7 @@ public class TestFlock {
 		// 	b.setPos(i*100,  10);
 		// 	f.addBird(b);
 		// }
-    for(int i=0;i<10;i++){
+    for(int i=0;i<40;i++){
   		Bird b1 = new Bird523();
 	  	f.addBird(b1);	
     }
